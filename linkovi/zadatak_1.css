@@ -1,0 +1,20 @@
+
+#zelena{
+    a:link{
+    background-color: green;
+    }
+    a:hover{
+
+    }
+
+}
+#crvena{
+    a:hover{
+        background-color: red;
+    }
+}
+#zuta{
+    a:hover{
+        background-color: green;
+    }
+}
