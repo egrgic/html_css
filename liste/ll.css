@@ -1,0 +1,5 @@
+ol{
+    list-style-position: inside;
+    background: green;
+    list-style-image: url("ikona.jpg");
+}
