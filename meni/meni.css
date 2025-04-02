@@ -1,0 +1,16 @@
+ol {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    flex-flow: wrap;
+    gap: 20px;
+    margin-top: 10px;
+
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    padding-right: 30px;
+    margin-bottom: 45px;
+}
